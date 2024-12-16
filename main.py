@@ -266,8 +266,8 @@ st.dataframe(multifactor_prod_df[["year","period","periodName","latest","value",
 
 # Incremental Load Button
 
-if st.button('Pull Latest Data'):    
+# if st.button('Pull Latest Data'):    
 
-    PullLatestData()
+#     PullLatestData()
 
-    st.rerun()
+#     st.rerun()
