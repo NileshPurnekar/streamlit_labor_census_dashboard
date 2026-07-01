@@ -11,4 +11,4 @@ year,period,periodName,latest,value,footnotes
 2025,Q02,2nd Quarter,True,2.3,[{}]
 2025,Q03,3rd Quarter,True,-0.2,[{}]
 2025,Q05,Annual,True,1.8,"[{'code': 'R', 'text': 'revised'}]"
-2026,Q01,1st Quarter,true,-0.5,[{}]
+2026,Q01,1st Quarter,True,-0.5,[{}]
