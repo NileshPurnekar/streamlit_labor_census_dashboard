@@ -39,4 +39,5 @@ year,period,periodName,latest,value,footnotes
 2026,M03,March,True,4.3,[{}]
 2026,M04,April,True,4.3,[{}]
 2026,M05,May,True,4.3,[{}]
-2026,M06,June,true,4.2,[{}]
+2026,M06,June,True,4.2,[{}]
+2026,M07,July,true,4.1,[{}]
