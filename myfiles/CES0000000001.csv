@@ -41,4 +41,5 @@ year,period,periodName,latest,value,footnotes
 2026,M05,May,True,159001,"[{'code': 'P', 'text': 'preliminary'}]"
 2026,M06,June,True,158984,"[{'code': 'P', 'text': 'preliminary'}]"
 2026,M07,July,True,158858,"[{'code': 'P', 'text': 'preliminary'}]"
-2026,M08,August,true,159075,"[{'code': 'P', 'text': 'preliminary'}]"
+2026,M08,August,True,159075,"[{'code': 'P', 'text': 'preliminary'}]"
+2026,M09,September,true,159044,"[{'code': 'P', 'text': 'preliminary'}]"
